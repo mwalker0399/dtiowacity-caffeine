@@ -88,7 +88,7 @@ bootswatch: # leave blank or comment out for plain bootstrap
 # THEME FONTS
 base-font-size: 1.2em
 text-color: "#191919"
-link-color: "#0d6efd"
+link-color: "#DEDEDE"
 base-font-family: '"Ledger", serif'
 font-cdn: <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Ledger&display=swap" rel="stylesheet">
 
