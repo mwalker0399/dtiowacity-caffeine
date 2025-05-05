@@ -16,10 +16,5 @@ credits: true
 
 This collection features digtial images of the signs and storefronts of "caffeine spots" in Iowa City as of May 2025. "Caffeine spots" includes coffee shops, bubble tea shops, and any other quick-service establishment that specializes in some sort of caffeinated beverage. This collection is limited to businesses in downtown Iowa City or within a reasonable walking distance from downtown. 
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
 
